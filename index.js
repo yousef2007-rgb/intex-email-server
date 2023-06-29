@@ -14,7 +14,7 @@ var transporter = nodemailer.createTransport({
 var mailOptions = {
     from: 'yoyoradigames@gmail.com',
     to: ['yousefaburadi@yahoo.com', 'jamel89@gmail.com'],
-    subject: 'intex order test',
+    subject: 'intex order',
     html: '<a href="https://intex-orders.vercel.app/">the orders have been updated check the orders app</a>'
 };
 
@@ -28,7 +28,12 @@ const getData = () => {
     let data;
     return fetch("http://orders.fore-site.net/media_admin/api/api_secure.php?module=orders&method=orders_get_all&sk1=DICOSECSK1oolshdsf33sadGGHsd376&debug=yes&device_id=33333333&data=1&lang=en&username=28")
         .then(res => res.json())
-        .then(data => data.data.orders.filter((order, index) => order.cart_code.includes("web_")))
+        .then(data => data.data.orders.filter((order, index) => order.cart_code.includes("web_") && order.notes != null
+            ? !order.notes.includes("test") &&
+            !order.notes.toLowerCase().includes("yousef") &&
+            !order.notes.toLowerCase().includes("jamil") &&
+            !order.notes.toLowerCase().includes("jameel")
+            : false))
 
 }
 
