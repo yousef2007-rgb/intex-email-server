@@ -1,0 +1,668 @@
+
+started
+[Data Checked]:[Mon Aug 07 2023 03:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:09:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:14:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:29:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:34:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:39:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:44:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:49:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:54:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 03:59:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:09:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:14:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:29:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:34:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:39:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:44:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:49:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:54:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 04:59:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:09:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:14:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:29:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:34:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:39:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:44:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:49:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:54:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 05:59:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:09:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:14:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:29:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:34:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:39:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:49:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:54:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 06:59:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:14:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:34:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:44:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:49:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:54:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 07:59:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:04:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:09:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:19:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:24:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 08:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:29:30 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 09:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 10:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 11:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 12:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 13:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 14:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:24:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:34:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:39:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:44:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:49:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:54:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 15:59:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:04:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:09:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:14:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:19:31 GMT+0300 (GMT+03:00)]
+didn't change
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:24:32 GMT+0300 (GMT+03:00)]
+[Data Checked]:[Mon Aug 07 2023 16:29:31 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:34:32 GMT+0300 (GMT+03:00)]
+didn't change
+started
+[Data Checked]:[Mon Aug 07 2023 16:44:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:49:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:54:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 16:59:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:04:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:09:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:14:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:19:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:24:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:29:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:34:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:39:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:44:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:49:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:54:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 17:59:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:04:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:09:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:14:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:19:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:24:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:29:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:34:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:39:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:44:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:49:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:54:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 18:59:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:04:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:09:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:14:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:19:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:24:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:29:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:34:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:39:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:44:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:49:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:54:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 19:59:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:04:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:09:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:14:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:19:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:24:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:29:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:34:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:39:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:44:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:49:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:54:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 20:59:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 21:04:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 21:09:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 21:14:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 21:19:46 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Mon Aug 07 2023 21:24:46 GMT+0300 (GMT+03:00)]
+didn't change
+started
+[Data Checked]:[Mon Aug 07 2023 21:34:47 GMT+0300 (GMT+03:00)]
+didn't change
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+didn't change
+[Data Checked]:[Tue Aug 08 2023 01:45:01 GMT+0300 (GMT+03:00)]
+[Data Checked]:[Tue Aug 08 2023 01:50:01 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 01:55:01 GMT+0300 (GMT+03:00)]
+didn't change
+started
+[Data Checked]:[Tue Aug 08 2023 02:05:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:10:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:15:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:20:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:25:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:30:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:35:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:40:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:45:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:50:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 02:55:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:00:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:05:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:10:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:15:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:20:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:25:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:30:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:35:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:40:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:45:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:50:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 03:55:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 04:00:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 04:05:13 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 04:10:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 04:15:14 GMT+0300 (GMT+03:00)]
+didn't change
+[Data Checked]:[Tue Aug 08 2023 04:20:14 GMT+0300 (GMT+03:00)]
+didn't change
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
+started
