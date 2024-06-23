@@ -30,11 +30,13 @@ fs.appendFile(logFile, "\n" + `started`, (err) => {
 let initialData = {};
 
 // Function to load data from the JSON file
-const loadInitialDataFromFile = () => {
+const loadInitialDataFromFile = async () => {
   try {
-    const data = fs.readFileSync("initialData.json", "utf8");
+    const data = await fs.readFileSync("./initialData.json", "utf8");
+    // console.log(data);
     return JSON.parse(data);
   } catch (error) {
+    // console.error(error)
     // Return an empty object if the file doesn't exist or there's an error reading it
     return {};
   }
@@ -108,8 +110,12 @@ const dataCheck = () => {
 };
 
 //sets initial data
-initialData = loadInitialDataFromFile();
+loadInitialDataFromFile().then((data) => {
+  initialData = data;
+  // console.log(initialData)
+  setInterval(dataCheck, 60000 * 5)
+});
 //checks the api every 5 minutes
-setInterval(dataCheck, 60000 * 5);
+
 
 console.log("\x1b[36m%s\x1b[0m", "the app has started sucessfully");
