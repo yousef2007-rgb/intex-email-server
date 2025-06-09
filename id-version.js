@@ -16,7 +16,7 @@ const getData = () => {
     .then((data) =>
       data.data.orders.filter((order, index) =>
         order.cart_code.includes("web_") && order.notes != null
-          ? order.notes.includes("test") &&
+          ? !order.notes.includes("test") &&
           !order.notes.toLowerCase().includes("aburadi")
           : false
       )
@@ -29,7 +29,7 @@ const checkOrders = async () =>{
     const firstId = dataSorted[0].id;
     if(firstId > currentId.id){
         try{
-        const emailResponse=await email();
+        const emailResponse=await email(firstId);
         console.log(emailResponse.response)
         updateCurrentId(firstId);
         console.log("\x1b[33m%s\x1b[0m", "changed");
@@ -41,7 +41,7 @@ const checkOrders = async () =>{
     }
 
 }
-
+checkOrders();
 setInterval(checkOrders,60000*10);
 
 //email();
