@@ -29,10 +29,10 @@ const checkOrders = async () =>{
     const firstId = dataSorted[0].id;
     if(firstId > currentId.id){
         try{
-        const emailResponse=await email(firstId);
-        console.log(emailResponse.response)
-        updateCurrentId(firstId);
-        console.log("\x1b[33m%s\x1b[0m", "changed");
+            const emailResponse=await email(firstId);
+            console.log(emailResponse.response)
+            updateCurrentId(firstId);
+            console.log("\x1b[33m%s\x1b[0m", "changed");
         }catch(err){
             console.log("error sending email")
         }   
