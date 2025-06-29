@@ -17,34 +17,30 @@ const transporter = nodemailer.createTransport({
   },
 });
 
-const mailOptions = {
+const defaultMailOptions = {
   from: "yoyoradigames@gmail.com",
-  to: ["yousefaburadi@yahoo.com",
-    "jamel89@gmail.com"
-  ],
+  to: ["yousefaburadi@yahoo.com","jamel89@gmail.com"],
   subject: "intex order",
   html: '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>New Order Notification</title></head><body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;"><div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 20px; border-radius: 8px;"><h2 style="color: #333333;">New Order Received</h2><p style="font-size: 16px; color: #555555;">Hello,</p><p style="font-size: 16px; color: #555555;">We are excited to inform you that a new order has been placed. Please click the link below to view the details of the order.</p><p style="text-align: center; margin: 30px 0;"><a href="https://intex-orders.vercel.app/" style="background-color: #007bff; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 5px;">View Order</a></p><p style="font-size: 16px; color: #555555;">Thank you,<br>The Intex Orders Team</p></div></body></html>',
 };
 
 
+const createMailOptions = (orderId) => {
+    const options = {
+        from: "yoyoradigames@gmail.com",
+        to: ["yousefaburadi@yahoo.com","jamel89@gmail.com"],
+        subject: "intex order",
+        html: `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>New Order Notification</title></head><body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;"><div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 20px; border-radius: 8px;"><h2 style="color: #333333;">New Order Received</h2><p style="font-size: 16px; color: #555555;">Hello,</p><p style="font-size: 16px; color: #555555;">We are excited to inform you that a new order has been placed. Please click the link below to view the details of the order.</p><p style="text-align: center; margin: 30px 0;"><a href="https://intex-orders.vercel.app/order/${orderId}" style="background-color: #007bff; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 5px;">View Order</a></p><p style="font-size: 16px; color: #555555;">Thank you,<br>The Intex Orders Team</p></div></body></html>`,
+    }
+    return options;
+};
 const email = (orderId) => {
   if ( orderId ){ 
   	return transporter.sendMail(createMailOptions(orderId))
   }else{
-	return transporter.sendMail(MailOptions)
+	return transporter.sendMail(defaultMailOptions)
   }
 }
 
-const createMailOptions = (orderId) => {
-    const options = {
-      from: "yoyoradigames@gmail.com",
-      to: ["yousefaburadi@yahoo.com",
-        "jamel89@gmail.com"
-      ],
-      subject: "intex order",
-      html: `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>New Order Notification</title></head><body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;"><div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 20px; border-radius: 8px;"><h2 style="color: #333333;">New Order Received</h2><p style="font-size: 16px; color: #555555;">Hello,</p><p style="font-size: 16px; color: #555555;">We are excited to inform you that a new order has been placed. Please click the link below to view the details of the order.</p><p style="text-align: center; margin: 30px 0;"><a href="https://intex-orders.vercel.app/order/${orderId}" style="background-color: #007bff; color: #ffffff; padding: 12px 20px; text-decoration: none; border-radius: 5px;">View Order</a></p><p style="font-size: 16px; color: #555555;">Thank you,<br>The Intex Orders Team</p></div></body></html>`,
-    }
-    return options;
-};
 
 module.exports = email;
